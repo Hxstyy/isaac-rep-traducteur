@@ -1,2 +1,2 @@
-5.5
-Suivi des transformations (Guppy, Belzebuth, Leviathan...) en francais : avancement x/3 quand tu ramasses un objet, et recap dans le menu.
+5.6
+En version gratuite, F9 affiche une invitation a soutenir le projet.
