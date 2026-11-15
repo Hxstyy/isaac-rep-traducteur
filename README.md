@@ -79,6 +79,9 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   navigateur » (`http://localhost:17645`), qui affiche les traductions et les
   transformations en direct à ton audience (clic droit → Mode streamer / OBS)
 
+**Donner ton avis :** clic droit → **« Donner mon avis / idée / signaler un bug »**.
+Un petit formulaire envoie ton retour directement au créateur. N'hésite pas !
+
 **Essai :** la version complète est débloquée gratuitement pendant tes **3 premières
 parties**. Ensuite, elle se verrouille (la traduction des objets, elle, reste gratuite).
 

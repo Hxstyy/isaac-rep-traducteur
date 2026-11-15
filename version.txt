@@ -1,2 +1,2 @@
-5.7
-Multi-langue (fr, en, es, de, it, pt, ru) et mode streamer/OBS.
+5.8
+Tu peux maintenant donner ton avis, proposer une idee ou signaler un bug depuis le menu.
