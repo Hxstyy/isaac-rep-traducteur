@@ -1,2 +1,2 @@
-5.6
-En version gratuite, F9 affiche une invitation a soutenir le projet.
+5.7
+Multi-langue (fr, en, es, de, it, pt, ru) et mode streamer/OBS.

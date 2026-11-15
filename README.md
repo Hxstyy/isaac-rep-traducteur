@@ -61,6 +61,8 @@ t'en approches, etc. C'est la partie réservée à la version complète.
 - Traduction des objets, cartes, pilules et babioles ramassés
 - Bulle déplaçable où tu veux à l'écran
 - Noms officiels de la version française
+- **Choix de la langue** : français, anglais, espagnol, allemand, italien,
+  portugais (BR), russe (clic droit → Langue de traduction)
 
 **Version COMPLÈTE (soutien à 2 €) :**
 - **Traduction à l'approche** : approche-toi d'un objet, sa traduction s'affiche
@@ -73,6 +75,9 @@ t'en approches, etc. C'est la partie réservée à la version complète.
 - **Scan de l'écran (F6)** : traduit n'importe quel texte affiché
 - **Pilules et cartes** traduites automatiquement quand tu les utilises
 - **Traduction du texte libre** du jeu
+- **Mode streamer / OBS** : une page prête à ajouter dans OBS en « Source
+  navigateur » (`http://localhost:17645`), qui affiche les traductions et les
+  transformations en direct à ton audience (clic droit → Mode streamer / OBS)
 
 **Essai :** la version complète est débloquée gratuitement pendant tes **3 premières
 parties**. Ensuite, elle se verrouille (la traduction des objets, elle, reste gratuite).
