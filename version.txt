@@ -1,2 +1,2 @@
-5.8
-Tu peux maintenant donner ton avis, proposer une idee ou signaler un bug depuis le menu.
+5.9
+Version complete : nouvelles bulles au style du jeu (panneau sombre, ecriture a la main).

@@ -65,6 +65,8 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   portugais (BR), russe (clic droit → Langue de traduction)
 
 **Version COMPLÈTE (soutien à 2 €) :**
+- **Bulles au style du jeu** : panneau sombre aux bords déchirés et texte écrit à la
+  main, comme les panneaux d'Isaac (la version gratuite garde la bulle parchemin)
 - **Traduction à l'approche** : approche-toi d'un objet, sa traduction s'affiche
   (même les objets jamais débloqués, marqués « ??? »)
 - **Suivi des transformations** : quand tu ramasses un objet qui compte pour une
@@ -176,5 +178,7 @@ Il est déjà lancé : regarde l'icône FR près de l'horloge.
 - Noms officiels et astuces : **The Binding of Isaac: Rebirth Wiki (FR)**,
   sous licence **CC BY-SA 4.0** — https://bindingofisaacrebirth.wiki.gg/fr
 - Traduction du texte libre : **MyMemory**
+- Police des bulles (version complète) : **Permanent Marker** par *Font Diner*,
+  sous licence **Apache 2.0** (voir `PermanentMarker-LICENSE.txt`)
 - *The Binding of Isaac* est une marque d'Edmund McMillen / Nicalis. Ce logiciel est un
   outil de fan non officiel, sans affiliation.
