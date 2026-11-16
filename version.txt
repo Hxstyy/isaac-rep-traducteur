@@ -1,2 +1,2 @@
-6.1
-Nouvel onglet Parametres dans la fenetre F9 (version complete).
+6.2
+Fenetre F9 au style du jeu + nouvel onglet Stats : historique et tableau de bord de tes runs (version complete).

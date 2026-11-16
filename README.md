@@ -74,8 +74,15 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   l'avancement (`→ Belzébuth 2/3`), et t'annonce quand tu l'obtiens. Récap de la
   run à tout moment : clic droit sur l'icône → « Transformations de la run ».
 - **Astuces du wiki** (effets, synergies, notes) dans la recherche (F9)
+- **Fenêtre F9 au style du jeu** : thème sombre, onglets et titres écrits à la main
 - **Onglet Paramètres dans F9** : tous les réglages du clic droit au même endroit
   (cases à cocher, durée, taille, langue, mises à jour…)
+- **Onglet Stats dans F9** : tableau de bord de tes runs, enregistrées
+  automatiquement : run en cours avec son temps en direct, nombre de runs, temps de
+  jeu, durée moyenne, record de profondeur, jusqu'où vont tes runs (Grottes,
+  Profondeurs, Utérus…), persos les plus joués, objets les plus pris, dernières runs.
+  (Le jeu n'écrit ni la mort ni la victoire dans son log : c'est l'étage le plus
+  profond atteint qui compte.)
 - **Scan de l'écran (F6)** : traduit n'importe quel texte affiché
 - **Pilules et cartes** traduites automatiquement quand tu les utilises
 - **Traduction du texte libre** du jeu
@@ -120,7 +127,7 @@ tout seul s'il est dans `C:\Program Files\Tesseract-OCR`.
 | **F6** | Scanner l'écran et traduire *(VIP)* |
 | **F7** | Placer la bulle à la souris |
 | **F8** | Réafficher le dernier objet |
-| **F9** | Rechercher un objet / voir les astuces du wiki *(astuces = VIP)* |
+| **F9** | Rechercher un objet / astuces du wiki, stats et paramètres *(VIP)* |
 | **Maj + F6** | Scan avec image de diagnostic |
 | **Ctrl + F8** | Quitter |
 
