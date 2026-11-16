@@ -74,6 +74,8 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   l'avancement (`→ Belzébuth 2/3`), et t'annonce quand tu l'obtiens. Récap de la
   run à tout moment : clic droit sur l'icône → « Transformations de la run ».
 - **Astuces du wiki** (effets, synergies, notes) dans la recherche (F9)
+- **Onglet Paramètres dans F9** : tous les réglages du clic droit au même endroit
+  (cases à cocher, durée, taille, langue, mises à jour…)
 - **Scan de l'écran (F6)** : traduit n'importe quel texte affiché
 - **Pilules et cartes** traduites automatiquement quand tu les utilises
 - **Traduction du texte libre** du jeu

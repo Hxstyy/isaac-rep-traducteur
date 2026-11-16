@@ -1,2 +1,2 @@
-6.0
-Ameliorations des bulles de la version complete.
+6.1
+Nouvel onglet Parametres dans la fenetre F9 (version complete).
