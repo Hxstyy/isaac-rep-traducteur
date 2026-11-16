@@ -180,5 +180,7 @@ Il est déjà lancé : regarde l'icône FR près de l'horloge.
 - Traduction du texte libre : **MyMemory**
 - Police des bulles (version complète) : **Permanent Marker** par *Font Diner*,
   sous licence **Apache 2.0** (voir `PermanentMarker-LICENSE.txt`)
+- Police intégrée : **Cormorant Garamond** par *Christian Thalmann*, sous licence
+  **SIL Open Font License 1.1** (voir `CormorantGaramond-OFL.txt`)
 - *The Binding of Isaac* est une marque d'Edmund McMillen / Nicalis. Ce logiciel est un
   outil de fan non officiel, sans affiliation.

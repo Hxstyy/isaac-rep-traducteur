@@ -1,2 +1,2 @@
-5.9
-Version complete : nouvelles bulles au style du jeu (panneau sombre, ecriture a la main).
+6.0
+Ameliorations des bulles de la version complete.
