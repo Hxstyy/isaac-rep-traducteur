@@ -1,2 +1,2 @@
-6.2
-Fenetre F9 au style du jeu + nouvel onglet Stats : historique et tableau de bord de tes runs (version complete).
+6.3
+Nouveau (version complete) : qualite cachee des objets + synergies avec ton build dans la bulle.

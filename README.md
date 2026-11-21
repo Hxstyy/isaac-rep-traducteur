@@ -73,6 +73,13 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   transformation (Guppy, Belzébuth, Léviathan, Séraphin…), la bulle montre
   l'avancement (`→ Belzébuth 2/3`), et t'annonce quand tu l'obtiens. Récap de la
   run à tout moment : clic droit sur l'icône → « Transformations de la run ».
+- **Qualité cachée des objets** : chaque objet a une note de 0 à 4 que le jeu ne
+  montre jamais (c'est elle que regardent les salles d'ange/de diable, le D4,
+  etc.). La bulle l'affiche en tête : `Qualité 4/4 · objet surpuissant`.
+- **Synergies avec ton build** : quand tu vois ou ramasses un objet, la bulle te dit
+  s'il interagit avec un objet que tu as déjà, en bien ou en mal
+  (« Effet annulé par Dr. Fetus », « Ipéca : le laser explose au contact… »).
+  Fini les mauvaises surprises.
 - **Astuces du wiki** (effets, synergies, notes) dans la recherche (F9)
 - **Fenêtre F9 au style du jeu** : thème sombre, onglets et titres écrits à la main
 - **Onglet Paramètres dans F9** : tous les réglages du clic droit au même endroit
@@ -183,7 +190,9 @@ Il est déjà lancé : regarde l'icône FR près de l'horloge.
 ## Crédits et licences
 
 - Traductions des objets : **External Item Descriptions (EID)** par *wofsauge* et les
-  contributeurs — https://github.com/wofsauge/External-Item-Descriptions
+  contributeurs — https://github.com/wofsauge/External-Item-Descriptions (aussi la liste des
+  interactions entre objets)
+- Qualité des objets : fichiers de données du jeu (*items_metadata.xml*)
 - Noms officiels et astuces : **The Binding of Isaac: Rebirth Wiki (FR)**,
   sous licence **CC BY-SA 4.0** — https://bindingofisaacrebirth.wiki.gg/fr
 - Traduction du texte libre : **MyMemory**
