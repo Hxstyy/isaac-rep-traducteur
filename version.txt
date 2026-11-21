@@ -1,2 +1,2 @@
-6.3
-Nouveau (version complete) : qualite cachee des objets + synergies avec ton build dans la bulle.
+6.4
+Qualite cachee des objets + synergies avec ton build (version complete). Correctif : la recherche de mises a jour revient.
