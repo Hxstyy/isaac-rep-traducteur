@@ -80,6 +80,9 @@ t'en approches, etc. C'est la partie réservée à la version complète.
   s'il interagit avec un objet que tu as déjà, en bien ou en mal
   (« Effet annulé par Dr. Fetus », « Ipéca : le laser explose au contact… »).
   Fini les mauvaises surprises.
+- **Pas de triche** : avec la malédiction de l'aveugle (objets cachés sous « ? »),
+  le traducteur ne révèle pas les objets à l'approche. Il les traduit seulement une
+  fois ramassés, comme le jeu.
 - **Astuces du wiki** (effets, synergies, notes) dans la recherche (F9)
 - **Fenêtre F9 au style du jeu** : thème sombre, onglets et titres écrits à la main
 - **Onglet Paramètres dans F9** : tous les réglages du clic droit au même endroit

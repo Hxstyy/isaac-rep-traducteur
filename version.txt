@@ -1,2 +1,2 @@
-6.4
-Qualite cachee des objets + synergies avec ton build (version complete). Correctif : la recherche de mises a jour revient.
+6.5
+Curse of the Blind : les objets caches sous un ? ne sont plus reveles a l approche (pas de triche).
