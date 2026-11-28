@@ -1,5 +1,7 @@
 # Isaac Traducteur FR
 
+**Made by HXST** · TikTok : [@isaactranslate](https://www.tiktok.com/@isaactranslate)
+
 Traducteur français pour **The Binding of Isaac: Repentance+**.
 C'est un petit logiciel qui tourne en fond pendant que tu joues et affiche la
 traduction des objets, cartes, pilules et babioles directement par-dessus le jeu,
@@ -191,6 +193,9 @@ Il est déjà lancé : regarde l'icône FR près de l'horloge.
 ---
 
 ## Crédits et licences
+
+**Isaac Traducteur FR — made by HXST.**
+Suis le projet sur TikTok : https://www.tiktok.com/@isaactranslate
 
 - Traductions des objets : **External Item Descriptions (EID)** par *wofsauge* et les
   contributeurs — https://github.com/wofsauge/External-Item-Descriptions (aussi la liste des
